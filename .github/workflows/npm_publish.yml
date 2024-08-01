@@ -36,4 +36,4 @@ jobs:
       # Runs a single command using the runners shell
       - run: npm publish --provenance --access public
         env:
-          NODE_AUTH_TOKEN: ${{ secrets.NPM_TOKEN }}
+          NODE_AUTH_TOKEN: "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"
